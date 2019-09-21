@@ -1,2 +1,2 @@
 # regression
-Machine Learning Regression Algorithms in Python and R 
+Machine Learning Regression Algorithms in python and R
